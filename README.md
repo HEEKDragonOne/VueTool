@@ -3,7 +3,8 @@
 ![](https://img-blog.csdnimg.cn/5f325b18c1fc4feeb7f31bbccd290096.png)
 
 一个Vue的特效库。均使用Vue实现各种炫酷的动画效果。效果均收集自互联网，或改编而成。
-
+可clone下来，直接运行查看效果。
+本地效果查看：http://localhost:8080/ttf_1
 ## 部分效果列表
 
 - ttf_1
